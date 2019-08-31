@@ -1,0 +1,27 @@
+body {
+    background: url('/template/images/fon.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+
+#foform
+{
+    margin-top: 140px;
+    text-align:center;
+
+}
+
+.raz {
+    all: unset;
+    -moz-appearance: textfield;
+    width: 3em;
+    text-align: center;
+}
+.raz::-webkit-inner-spin-button {
+    display: none;
+}

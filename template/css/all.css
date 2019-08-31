@@ -1,0 +1,40 @@
+
+body {
+    background: url(/template/images/fon.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+label {
+    text-align: center;
+    color: white;
+}
+
+H2 {
+    text-align: center;
+    color: white;
+}
+
+.knopka {
+    margin-top: 15px;
+
+}
+
+#form-group {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.container1 {
+    text-align: center;
+    margin-top: 150px;
+
+}
+.btn {
+    margin-top: 10px;
+    padding-top: 10px
+}
